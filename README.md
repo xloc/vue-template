@@ -7,7 +7,7 @@ pnpx degit xloc/vue-template
 pnpm install
 pnpm dev
 ```
-Remember to edit the project name in `package.json`
+Remember to edit the project name in `package.json`. Refer to [this gist](https://gist.github.com/xloc/226cd3624a33f91249315b58949ccebf) for more information.
 
 ## Packages
 
