@@ -1,11 +1,13 @@
 # Vue Project Template
 
-To start the development server:
+To use this template:
 
 ```bash
+pnpx degit xloc/vue-template
 pnpm install
 pnpm dev
 ```
+Remember to edit the project name in `package.json`
 
 ## Packages
 
